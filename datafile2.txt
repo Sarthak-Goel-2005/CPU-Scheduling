@@ -1,0 +1,36 @@
+BEGIN
+
+DISP: 1
+END
+
+ID: p1
+Arrive: 0
+ExecSize: 10
+Priority: 4
+END
+
+ID: p2
+Arrive: 2
+ExecSize: 1
+Priority: 2
+END
+
+ID: p3
+Arrive: 6
+ExecSize: 2
+Priority: 3
+END
+
+ID: p4
+Arrive: 10
+ExecSize: 1
+Priority: 3
+END
+
+ID: p5
+Arrive: 14
+ExecSize: 5
+Priority: 1
+END
+
+EOF
